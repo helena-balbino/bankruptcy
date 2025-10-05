@@ -18,7 +18,7 @@ O estudo envolveu:
 | Modelo                      | Accuracy | AUC-ROC | F1 (Classe 1) |
 |-----------------------------|:--------:|:-------:|:-------------:|
 | Regressão Logística (base)  |  0,8304  | 0,9496  |    0,2629     |
-| **MLP (limiar otimizado)**  | **0,9441** | 0,9419  |  **0,4602**   |
+| **MLP**^1  | **0,9441** | 0,9419  |  **0,4602**   |
 
 > Observação: Limiar escolhido por teste do F1.
 
